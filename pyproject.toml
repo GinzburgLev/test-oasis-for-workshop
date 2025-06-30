@@ -29,7 +29,7 @@ repository = "https://github.com/ginzburglev/test-oasis-for-workshop"
 [project.optional-dependencies]
 plugins = [
   "perovskite-solar-cell-database @ git+https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database.git@v0.1.1",
-  "pynxtools==0.10.7",
+  "pynxtools==0.10.9",
   "pynxtools-xps>=0.5.2",
   "nomad-schema-plugin-run>=1.0.1",
   "eelsdbconverter @ git+https://github.com/nomad-coe/nomad-parser-eelsdb.git@entry-point",
